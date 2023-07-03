@@ -1,0 +1,12 @@
+.body-font {
+  font-family: var(--font-family);
+  color: #ffffff;
+}
+
+.contacts1 {
+  color: #757575;
+}
+
+* {
+  display: inline;
+}
